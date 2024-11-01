@@ -1,1 +1,1 @@
-[# pytorch-api-god](https://www.kaggle.com/code/isbhargav/guide-to-pytorch-learning-rate-scheduling)
+[guide-to-pytorch-learning-rate-scheduling](https://www.kaggle.com/code/isbhargav/guide-to-pytorch-learning-rate-scheduling)
